@@ -1,5 +1,5 @@
 {
-	"name": "nette/schema",
+	"name": "snowsoft/schema",
 	"description": "📐 Nette Schema: validating data structures against a given Schema.",
 	"keywords": ["nette", "config"],
 	"homepage": "https://nette.org",
@@ -15,7 +15,7 @@
 		}
 	],
 	"require": {
-		"php": ">=8.0 <8.3",
+		"php": ">=8.0",
 		"nette/utils": "^4.0"
 	},
 	"require-dev": {
